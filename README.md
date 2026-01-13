@@ -1,0 +1,1 @@
+git@github.com:volodyaboroda/posmotri-v-okno-ad.git
